@@ -26,7 +26,7 @@ import java.util.logging.Level;
 
 /**
  *
- * @author isaque.santos@VALEMOBI.CORP
+ * @author diego.silva@VALEMOBI.CORP
  */
 public class Componentes {
 

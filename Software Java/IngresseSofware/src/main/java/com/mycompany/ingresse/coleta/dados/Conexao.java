@@ -10,7 +10,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 
 /**
  *
- * @author isaque.santos@VALEMOBI.CORP
+ * @author diego.silva@VALEMOBI.CORP
  */
 public class Conexao {
     private BasicDataSource dataSource;
